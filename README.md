@@ -23,7 +23,7 @@ Section 2: Architecture & Design
 
 
 Section 3: GitHub Location of Code
-https://github.com/brandon-hoang-le/CPSC411-PasswordManager
+* https://github.com/brandon-hoang-le/CPSC411-PasswordManager
 
 
 Section 4: Test Results
